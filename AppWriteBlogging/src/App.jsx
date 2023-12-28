@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import "./App.css";
 import { Header, Footer } from "./components/index";
 import { useDispatch } from "react-redux";
